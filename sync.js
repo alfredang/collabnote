@@ -4,13 +4,13 @@
  */
 
 const FIREBASE_CONFIG = {
-    apiKey: "AIzaSyBB_qJ4jw444amsdzQfqqm0TuOHgV96Zu8",
-    authDomain: "pinboard-c06ce.firebaseapp.com",
-    databaseURL: "https://pinboard-c06ce-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "pinboard-c06ce",
-    storageBucket: "pinboard-c06ce.firebasestorage.app",
-    messagingSenderId: "345215113896",
-    appId: "1:345215113896:web:576de615fd07688f5b409d"
+    apiKey: "FIREBASE_API_KEY_PLACEHOLDER",
+    authDomain: "collabnote-6dcd1.firebaseapp.com",
+    databaseURL: "https://collabnote-6dcd1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "collabnote-6dcd1",
+    storageBucket: "collabnote-6dcd1.firebasestorage.app",
+    messagingSenderId: "435000980829",
+    appId: "1:435000980829:web:1d80ad3a6fda2c7a00a4b4"
 };
 
 const Sync = {
