@@ -2,6 +2,8 @@
 
 A real-time collaborative note-taking app with a clean, modern interface. Create notes, share rooms via QR code or link, and collaborate with others in real time.
 
+![CollabNote Screenshot](screenshot.png)
+
 ## Features
 
 - **Real-time Collaboration** — Create a room and invite others with a 6-digit code, QR code, or shareable link
