@@ -703,6 +703,27 @@ body {
     text-align: center;
 }
 
+/* ── Footer ───────────────────────────────────────────── */
+
+.app-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--text-tertiary);
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--surface-border);
+    z-index: 50;
+}
+
+.app-footer strong {
+    color: var(--text-secondary);
+    font-weight: 600;
+}
+
 /* ── Animations ────────────────────────────────────────── */
 
 @keyframes fadeIn {
